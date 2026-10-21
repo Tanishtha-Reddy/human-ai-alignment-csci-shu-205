@@ -19,6 +19,7 @@
    2. Align Humans with AI: supports humans in understanding, critiquing, collaborating with, and adapting to AI advancements.
 - Human-AI alignment involves: defining human values for AI agents & models, develop the AI agents & models to learn human values, social impact of the same for trustworthy & safe AI.
 - Stakeholders or humans in questions are: users interacting with AI, crowdsource annotators, domain experts, AI developers & practicitioners, policymakers, communities, etc.
+
 2.**Why Human-AI alignment? What if not?**
   - In the initial stages of present-ChatGPT: humans would primarily only provide feedback during reinforcement learning.
   - In Anthropic: humans oversight was/is provided through a list of rules/principles (as in helfulness & harmlessness) (In the development process)
