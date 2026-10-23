@@ -33,6 +33,11 @@
     - 4. **Honest AI & Alignment faking**: What AI claims != What AI behaves -> AI is lying(?)
     - 5. **Dynamic Nature & Existential risk**: More of a long-term challenge.
 4. **Evolution: From AI Alignment to Human-AI Alignment**
+ - Traditional AI alignment is to help AI systems behave in line with human intentions and values.
+ - Some questions to ask when including humans in the picture (humans are crucial) is as follows:
+  - 1. "How can we empower humans to articulate clear & qualified specifications for aligning AI?"
+  - 2. "To what extent can humans understand AI's mechanisms & decisions? If not fully, how can they still express their intentions & values accurately for alignment?"
+  - 3. "How do human values, preferences and contexts evolve over time, and how should AI alignment adapt accordingly?"
 5. **Fundamental Definitions and Goals**
 7. **Human’s Roles in Alignment**
    
