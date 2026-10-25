@@ -38,8 +38,12 @@
   - 1. "How can we empower humans to articulate clear & qualified specifications for aligning AI?"
   - 2. "To what extent can humans understand AI's mechanisms & decisions? If not fully, how can they still express their intentions & values accurately for alignment?"
   - 3. "How do human values, preferences and contexts evolve over time, and how should AI alignment adapt accordingly?"
+   - Q1: How should we define alignment when humans & AI both change?
+   - Q2: Which failures worry you most: misaligned goals, value drift, manipulative AI?
+   - Q3: What are good ways of specifying sophisticated human desires & values?
 5. **Fundamental Definitions and Goals**
-7. **Human’s Roles in Alignment**
+ -  
+6. **Human’s Roles in Alignment**
    
 
 
