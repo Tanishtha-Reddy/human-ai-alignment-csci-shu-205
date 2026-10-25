@@ -42,7 +42,20 @@
    - Q2: Which failures worry you most: misaligned goals, value drift, manipulative AI?
    - Q3: What are good ways of specifying sophisticated human desires & values?
 5. **Fundamental Definitions and Goals**
- -  
+ -  LLM Basics: Trandformer with Multi-Head Attentions (2017) is the foundational paper for Gen-AI/ LLMs
+ -  Larger models are largely of 3 types: Decoder-only LM (next word prediction), Encoder-only MLM (Fill in the blanks-type), & Encoder-Decoder (corrupted text reconstruction)
+ -  Designing & Developing LLMS includes a cycle of collecting data, training the model, evaluating it & deploying it.
+ -  Some open-source LLMS include: GPT, Claude, Gemini etc. (the weights are free to access so that people can train these models on top of the pretrained model)
+ -  Some closed sources LLMs include: Llama, Deepseek, Mistral, Falcon etc.
+ -  LLM Agents: Multiple agents are connected to a 'brain' which is also an LLM, to perform various tasks simultaneously.
+ -  Q1: What aspects of human should AI be aligned with?   
+    A: Reccommended the paper: AI, values, and alignment. Mind & Machines (2020)
+ -  The paper concludes that the best course of actiojn to take right now is to aalign AI with human values.
+ -  There are several Value Theories:
+     1. Schwartz's Value Theory
+     2. World's Value Survey (WVS)
+     3. Hofsteded's Values Survey Module (VSM)
+     4. Moral Foundations Theory 
 6. **Human’s Roles in Alignment**
    
 
